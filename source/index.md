@@ -2,8 +2,9 @@
 title: 2600Hz API Reference Docs
 
 language_tabs:
-  - shell
-  - php: PHP
+  - curl: cURL
+  - asciiart: ASCII Art
+  - php: PHP SDK
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
